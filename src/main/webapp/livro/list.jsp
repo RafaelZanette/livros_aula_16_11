@@ -41,7 +41,7 @@
                 </c:forEach> <!-- FINALIZA A TAG C:FOREACH (A ESPÉCIE DE LOOP) -->
             </table> <!-- FINALIZA UMA TABELA -->
 
-            <h1>Lista de livros! Mateus Bonacina</h1> <!-- EXIBE UM TÍTULO h1 -->
+            <h1>Lista de livros! Rafael Zanette</h1> <!-- EXIBE UM TÍTULO h1 -->
         </main> <!-- FINALIZA A TAG MAIN -->
 
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script> <!-- DECLARA O SEPARATE -->
